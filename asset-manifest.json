@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad/static/css/main.8199ba36.chunk.css",
+    "main.js": "/Breaking-Bad/static/js/main.c5cced73.chunk.js",
+    "main.js.map": "/Breaking-Bad/static/js/main.c5cced73.chunk.js.map",
+    "runtime-main.js": "/Breaking-Bad/static/js/runtime-main.2898a2ac.js",
+    "runtime-main.js.map": "/Breaking-Bad/static/js/runtime-main.2898a2ac.js.map",
+    "static/css/2.800be05e.chunk.css": "/Breaking-Bad/static/css/2.800be05e.chunk.css",
+    "static/js/2.ec6b00d5.chunk.js": "/Breaking-Bad/static/js/2.ec6b00d5.chunk.js",
+    "static/js/2.ec6b00d5.chunk.js.map": "/Breaking-Bad/static/js/2.ec6b00d5.chunk.js.map",
+    "index.html": "/Breaking-Bad/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/Breaking-Bad/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.8199ba36.chunk.css.map": "/Breaking-Bad/static/css/main.8199ba36.chunk.css.map",
+    "static/js/2.ec6b00d5.chunk.js.LICENSE.txt": "/Breaking-Bad/static/js/2.ec6b00d5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Breaking-Bad/static/media/bg.085908ea.jpeg",
+    "static/media/logo.e6ecab44.png": "/Breaking-Bad/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/Breaking-Bad/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2898a2ac.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.ec6b00d5.chunk.js",
+    "static/css/main.8199ba36.chunk.css",
+    "static/js/main.c5cced73.chunk.js"
+  ]
+}
