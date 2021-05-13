@@ -10,7 +10,7 @@ const Pagination = ({postsPerPage, totalPosts, paginate}) => {
           <ul className="pagination center"> 
             {pageNumbers.map(number => (
                 <li key="number" className="page-item">
-                    <a href="!#" onClick={() => paginate(number)} className="page-link">
+                    <a href="https://jacqueline-walsh.github.io/Breaking-Bad/!#" onClick={() => paginate(number)} className="page-link">
                         {number}
                     </a>
                 </li>
