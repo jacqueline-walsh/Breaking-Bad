@@ -41,6 +41,12 @@ header img {
   width: 200px;
 }
 
+footer {
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
 .center {
   display: flex;
   align-items: center;
@@ -119,6 +125,14 @@ input[type='text'] {
 .card li {
   list-style: none;
   padding-bottom: 10px;
+}
+
+nav .pagination {
+  margin-top: 20px;
+}
+
+a.page-link {
+  color: black;
 }
 
 @media (max-width: 800px) {
